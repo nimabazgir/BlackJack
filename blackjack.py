@@ -81,6 +81,8 @@ def start_game():
         # print(f"[debug] user cards: {user_cards}")        
         # print(f"[debug] pc cards: {pc_cards}")
         # print(f"[debug] game over: {game_over}")
+clear_screen()
 while input("Do You want to play a Game of BlackJack? Type 'y' or 'n': ").lower() == 'y':
     start_game()
+print("Goodbye...")
     
