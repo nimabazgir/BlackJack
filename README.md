@@ -1,2 +1,2 @@
 # BlackJack
- Python BlackJack Game
+Python BlackJack Game
